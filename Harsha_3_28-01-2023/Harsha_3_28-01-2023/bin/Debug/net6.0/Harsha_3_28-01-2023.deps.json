@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Harsha_3_28-01-2023/1.0.0": {
+        "runtime": {
+          "Harsha_3_28-01-2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Harsha_3_28-01-2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
