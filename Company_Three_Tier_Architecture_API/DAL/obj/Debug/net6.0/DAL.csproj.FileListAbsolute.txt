@@ -1,0 +1,28 @@
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\bandi\source\repos\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Company_Three_Tier_Architecture_API\DAL\obj\Debug\net6.0\ref\DAL.dll

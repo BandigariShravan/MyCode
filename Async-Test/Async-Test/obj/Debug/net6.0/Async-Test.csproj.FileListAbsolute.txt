@@ -1,0 +1,15 @@
+C:\Users\bandi\source\repos\Async-Test\Async-Test\bin\Debug\net6.0\Async-Test.exe
+C:\Users\bandi\source\repos\Async-Test\Async-Test\bin\Debug\net6.0\Async-Test.deps.json
+C:\Users\bandi\source\repos\Async-Test\Async-Test\bin\Debug\net6.0\Async-Test.runtimeconfig.json
+C:\Users\bandi\source\repos\Async-Test\Async-Test\bin\Debug\net6.0\Async-Test.dll
+C:\Users\bandi\source\repos\Async-Test\Async-Test\bin\Debug\net6.0\Async-Test.pdb
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\Async-Test.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\Async-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\Async-Test.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\Async-Test.AssemblyInfo.cs
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\Async-Test.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\Async-Test.dll
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\refint\Async-Test.dll
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\Async-Test.pdb
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\Async-Test.genruntimeconfig.cache
+C:\Users\bandi\source\repos\Async-Test\Async-Test\obj\Debug\net6.0\ref\Async-Test.dll

@@ -1,0 +1,6 @@
+C:\Users\bandi\source\repos\LibraryAPIUsingLinq\Test_LibraryAPI\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\bandi\source\repos\LibraryAPIUsingLinq\Test_LibraryAPI\obj\Debug\net6.0\Test_LibraryAPI.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\LibraryAPIUsingLinq\Test_LibraryAPI\obj\Debug\net6.0\Test_LibraryAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\LibraryAPIUsingLinq\Test_LibraryAPI\obj\Debug\net6.0\Test_LibraryAPI.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\LibraryAPIUsingLinq\Test_LibraryAPI\obj\Debug\net6.0\Test_LibraryAPI.AssemblyInfo.cs
+C:\Users\bandi\source\repos\LibraryAPIUsingLinq\Test_LibraryAPI\obj\Debug\net6.0\Test_LibraryAPI.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FacebookAuth_API.props" />
+</Project>

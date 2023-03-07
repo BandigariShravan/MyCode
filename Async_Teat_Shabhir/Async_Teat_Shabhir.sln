@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async_Teat_Shabhir", "Async_Teat_Shabhir\Async_Teat_Shabhir.csproj", "{D14CF4D3-4CD8-452C-BDE4-64317BB28072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14CF4D3-4CD8-452C-BDE4-64317BB28072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14CF4D3-4CD8-452C-BDE4-64317BB28072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14CF4D3-4CD8-452C-BDE4-64317BB28072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14CF4D3-4CD8-452C-BDE4-64317BB28072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997B63A6-377E-4F71-9809-8414E409F9EA}
+	EndGlobalSection
+EndGlobal

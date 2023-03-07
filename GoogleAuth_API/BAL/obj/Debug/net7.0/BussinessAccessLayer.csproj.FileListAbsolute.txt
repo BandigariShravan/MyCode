@@ -1,0 +1,14 @@
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\bin\Debug\net7.0\BussinessAccessLayer.deps.json
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\bin\Debug\net7.0\BussinessAccessLayer.runtimeconfig.json
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\bin\Debug\net7.0\BussinessAccessLayer.dll
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\bin\Debug\net7.0\BussinessAccessLayer.pdb
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\BussinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\BussinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\BussinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\BussinessAccessLayer.AssemblyInfo.cs
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\BussinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\BussinessAccessLayer.dll
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\refint\BussinessAccessLayer.dll
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\BussinessAccessLayer.pdb
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\BussinessAccessLayer.genruntimeconfig.cache
+C:\Users\bandi\source\repos\GoogleAuth_API\BAL\obj\Debug\net7.0\ref\BussinessAccessLayer.dll

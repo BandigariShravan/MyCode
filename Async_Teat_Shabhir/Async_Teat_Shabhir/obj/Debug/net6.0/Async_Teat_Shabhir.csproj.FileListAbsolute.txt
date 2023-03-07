@@ -1,0 +1,30 @@
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.AssemblyInfo.cs
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.exe
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.deps.json
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.runtimeconfig.json
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.dll
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.pdb
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.dll
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\refint\Async_Teat_Shabhir.dll
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.pdb
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.genruntimeconfig.cache
+C:\Users\bandi\source\repos\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\ref\Async_Teat_Shabhir.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.exe
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.deps.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.runtimeconfig.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\bin\Debug\net6.0\Async_Teat_Shabhir.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.csproj.CoreCompileInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\refint\Async_Teat_Shabhir.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\Async_Teat_Shabhir.genruntimeconfig.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Async_Teat_Shabhir\Async_Teat_Shabhir\obj\Debug\net6.0\ref\Async_Teat_Shabhir.dll

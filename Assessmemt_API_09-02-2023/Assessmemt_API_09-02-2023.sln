@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assessmemt_API_09-02-2023", "Assessmemt_API_09-02-2023\Assessmemt_API_09-02-2023.csproj", "{80C4CFF2-68B3-46A0-A995-EFF4D66B6917}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{69D6420F-A6CA-4787-BDFB-8FB01C0F6B8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BAL", "BAL\BAL.csproj", "{BC5C1210-300D-48BA-97A3-30190EAC25EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infrastructure", "infrastructure", "{CB6E5A0E-60FD-432B-B8A6-4E92E4F5D163}"
+	ProjectSection(SolutionItems) = preProject
+		infrastructure\main.bicep = infrastructure\main.bicep
+		infrastructure\main.parameters.dev.json = infrastructure\main.parameters.dev.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pipeline", "pipeline", "{ED096592-60AA-4317-B445-BE82FEC55867}"
+	ProjectSection(SolutionItems) = preProject
+		pipeline\azurepipeline.yml = pipeline\azurepipeline.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "templates", "templates", "{982D5700-7720-440B-A1B8-80AD7515DD6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "job_level_templates", "job_level_templates", "{C947ACB8-C500-41A9-85DE-7CD02FFAD0F4}"
+	ProjectSection(SolutionItems) = preProject
+		pipeline\templates\job_level_templates\job_build_template.yml = pipeline\templates\job_level_templates\job_build_template.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "stage_level_templates", "stage_level_templates", "{EA6687E2-569D-4D3E-9946-C4C6C24A6924}"
+	ProjectSection(SolutionItems) = preProject
+		pipeline\templates\stage_level_templates\app_deployment_stage_template.yml = pipeline\templates\stage_level_templates\app_deployment_stage_template.yml
+		pipeline\templates\stage_level_templates\az_deployment_stage_template.yml = pipeline\templates\stage_level_templates\az_deployment_stage_template.yml
+		pipeline\templates\stage_level_templates\test_build_stage_template.yml = pipeline\templates\stage_level_templates\test_build_stage_template.yml
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "ControllerUnitTest\UnitTest.csproj", "{6412EA30-2FE8-4AE3-8AD9-3A0BA993092F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80C4CFF2-68B3-46A0-A995-EFF4D66B6917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C4CFF2-68B3-46A0-A995-EFF4D66B6917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C4CFF2-68B3-46A0-A995-EFF4D66B6917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C4CFF2-68B3-46A0-A995-EFF4D66B6917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D6420F-A6CA-4787-BDFB-8FB01C0F6B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D6420F-A6CA-4787-BDFB-8FB01C0F6B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D6420F-A6CA-4787-BDFB-8FB01C0F6B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D6420F-A6CA-4787-BDFB-8FB01C0F6B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5C1210-300D-48BA-97A3-30190EAC25EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5C1210-300D-48BA-97A3-30190EAC25EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5C1210-300D-48BA-97A3-30190EAC25EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5C1210-300D-48BA-97A3-30190EAC25EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6412EA30-2FE8-4AE3-8AD9-3A0BA993092F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6412EA30-2FE8-4AE3-8AD9-3A0BA993092F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6412EA30-2FE8-4AE3-8AD9-3A0BA993092F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6412EA30-2FE8-4AE3-8AD9-3A0BA993092F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{982D5700-7720-440B-A1B8-80AD7515DD6F} = {ED096592-60AA-4317-B445-BE82FEC55867}
+		{C947ACB8-C500-41A9-85DE-7CD02FFAD0F4} = {982D5700-7720-440B-A1B8-80AD7515DD6F}
+		{EA6687E2-569D-4D3E-9946-C4C6C24A6924} = {982D5700-7720-440B-A1B8-80AD7515DD6F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A8C95B-C963-4D41-A746-ACEB40E41375}
+	EndGlobalSection
+EndGlobal

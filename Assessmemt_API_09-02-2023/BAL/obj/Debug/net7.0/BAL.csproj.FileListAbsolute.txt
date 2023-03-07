@@ -1,0 +1,30 @@
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\BAL.deps.json
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\BAL.dll
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\BAL.pdb
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\DAL.dll
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.csproj.CopyComplete
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.dll
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\refint\BAL.dll
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.pdb
+C:\Users\bandi\OneDrive\Desktop\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\ref\BAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\refint\BAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\BAL.deps.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\BAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\BAL.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\DAL.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\BAL.csproj.CopyComplete
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\BAL\obj\Debug\net7.0\ref\BAL.dll

@@ -1,0 +1,11 @@
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Shravan_NewPipeline.exe
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Shravan_NewPipeline.dll
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Shravan_NewPipeline.deps.json
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Shravan_NewPipeline.runtimeconfig.json
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Shravan_NewPipeline.pdb
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bandi\source\repos\Shravan_NewPipeline\Shravan_NewPipeline\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

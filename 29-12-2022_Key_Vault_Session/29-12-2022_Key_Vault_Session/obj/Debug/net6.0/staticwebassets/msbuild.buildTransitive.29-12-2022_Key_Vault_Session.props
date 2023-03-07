@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\29-12-2022_Key_Vault_Session.props" />
+</Project>

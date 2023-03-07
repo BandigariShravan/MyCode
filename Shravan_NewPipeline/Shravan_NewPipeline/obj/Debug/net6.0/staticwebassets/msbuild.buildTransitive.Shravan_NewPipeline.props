@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Shravan_NewPipeline.props" />
+</Project>

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collab_SP_TTA_JWT_Api", "Collab_SP_TTA_JWT_Api\Collab_SP_TTA_JWT_Api.csproj", "{4E1163FF-2D0E-46CE-A172-2AE192851705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{84C107D1-A656-4B78-A0E3-770D78923175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{587B25CC-EE32-4088-8710-2B13A543F588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E1163FF-2D0E-46CE-A172-2AE192851705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1163FF-2D0E-46CE-A172-2AE192851705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1163FF-2D0E-46CE-A172-2AE192851705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1163FF-2D0E-46CE-A172-2AE192851705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C107D1-A656-4B78-A0E3-770D78923175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C107D1-A656-4B78-A0E3-770D78923175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C107D1-A656-4B78-A0E3-770D78923175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C107D1-A656-4B78-A0E3-770D78923175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587B25CC-EE32-4088-8710-2B13A543F588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587B25CC-EE32-4088-8710-2B13A543F588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587B25CC-EE32-4088-8710-2B13A543F588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587B25CC-EE32-4088-8710-2B13A543F588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F442F3F7-F935-4FCA-A96A-D20EA7B38685}
+	EndGlobalSection
+EndGlobal

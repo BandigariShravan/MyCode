@@ -1,0 +1,15 @@
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\bin\Debug\net6.0\Rupesh_Assignment.exe
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\bin\Debug\net6.0\Rupesh_Assignment.deps.json
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\bin\Debug\net6.0\Rupesh_Assignment.runtimeconfig.json
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\bin\Debug\net6.0\Rupesh_Assignment.dll
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\bin\Debug\net6.0\Rupesh_Assignment.pdb
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\Rupesh_Assignment.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\Rupesh_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\Rupesh_Assignment.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\Rupesh_Assignment.AssemblyInfo.cs
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\Rupesh_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\Rupesh_Assignment.dll
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\refint\Rupesh_Assignment.dll
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\Rupesh_Assignment.pdb
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\Rupesh_Assignment.genruntimeconfig.cache
+C:\Users\bandi\source\repos\Rupesh_Assignment\Rupesh_Assignment\obj\Debug\net6.0\ref\Rupesh_Assignment.dll

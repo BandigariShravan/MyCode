@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_New_Ajjaz_Reference", "JWT_New_Ajjaz_Reference\JWT_New_Ajjaz_Reference.csproj", "{7937EC6D-AA06-47FD-88A1-E28ABCA71AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{950372B6-C7B4-4D14-B1F3-817146D0D2E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7AAD1118-E638-479C-B226-7F0AE1DC4C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7937EC6D-AA06-47FD-88A1-E28ABCA71AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7937EC6D-AA06-47FD-88A1-E28ABCA71AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7937EC6D-AA06-47FD-88A1-E28ABCA71AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7937EC6D-AA06-47FD-88A1-E28ABCA71AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950372B6-C7B4-4D14-B1F3-817146D0D2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950372B6-C7B4-4D14-B1F3-817146D0D2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950372B6-C7B4-4D14-B1F3-817146D0D2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950372B6-C7B4-4D14-B1F3-817146D0D2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAD1118-E638-479C-B226-7F0AE1DC4C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAD1118-E638-479C-B226-7F0AE1DC4C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAD1118-E638-479C-B226-7F0AE1DC4C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAD1118-E638-479C-B226-7F0AE1DC4C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3C53313-9F65-4AC6-AC9E-AC97F634AB3E}
+	EndGlobalSection
+EndGlobal

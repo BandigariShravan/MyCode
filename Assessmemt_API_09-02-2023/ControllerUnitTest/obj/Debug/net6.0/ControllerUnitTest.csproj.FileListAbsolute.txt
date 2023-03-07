@@ -1,0 +1,5 @@
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\ControllerUnitTest\obj\Debug\net6.0\ControllerUnitTest.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\ControllerUnitTest\obj\Debug\net6.0\ControllerUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\ControllerUnitTest\obj\Debug\net6.0\ControllerUnitTest.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\ControllerUnitTest\obj\Debug\net6.0\ControllerUnitTest.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns - New\Interns-BE\Shravan\Assessmemt_API_09-02-2023\ControllerUnitTest\obj\Debug\net6.0\ControllerUnitTest.csproj.CoreCompileInputs.cache

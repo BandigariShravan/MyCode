@@ -1,0 +1,15 @@
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\bin\Debug\net6.0\PassByValue_Reference.exe
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\bin\Debug\net6.0\PassByValue_Reference.deps.json
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\bin\Debug\net6.0\PassByValue_Reference.runtimeconfig.json
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\bin\Debug\net6.0\PassByValue_Reference.dll
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\bin\Debug\net6.0\PassByValue_Reference.pdb
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\PassByValue_Reference.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\PassByValue_Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\PassByValue_Reference.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\PassByValue_Reference.AssemblyInfo.cs
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\PassByValue_Reference.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\PassByValue_Reference.dll
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\refint\PassByValue_Reference.dll
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\PassByValue_Reference.pdb
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\PassByValue_Reference.genruntimeconfig.cache
+C:\Users\bandi\source\repos\PassByValue_Reference\PassByValue_Reference\obj\Debug\net6.0\ref\PassByValue_Reference.dll

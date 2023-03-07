@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t2Pp/u6vuYVYeco3lLROWSAXHiq54XfZmpiuZ5/jfL4=",
+  "Source": "JWT_Authentication_NewAPI",
+  "BasePath": "_content/JWT_Authentication_NewAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

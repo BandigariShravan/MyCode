@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "p+/OJ1EYtrqLYYxn5OfO7evKZB8F/nyGKGCY0t0S1Fg=",
+  "Source": "OneToMany_BookUser_API",
+  "BasePath": "_content/OneToMany_BookUser_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

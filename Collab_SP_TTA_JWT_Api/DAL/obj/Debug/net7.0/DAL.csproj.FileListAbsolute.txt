@@ -1,0 +1,14 @@
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\bandi\source\repos\Collab_SP_TTA_JWT_Api\DAL\obj\Debug\net7.0\ref\DAL.dll

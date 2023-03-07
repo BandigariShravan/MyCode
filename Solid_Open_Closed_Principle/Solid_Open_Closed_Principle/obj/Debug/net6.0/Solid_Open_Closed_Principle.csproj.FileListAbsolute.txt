@@ -1,0 +1,15 @@
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\Solid_Open_Closed_Principle.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\Solid_Open_Closed_Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\Solid_Open_Closed_Principle.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\Solid_Open_Closed_Principle.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\Solid_Open_Closed_Principle.csproj.CoreCompileInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\bin\Debug\net6.0\Solid_Open_Closed_Principle.exe
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\bin\Debug\net6.0\Solid_Open_Closed_Principle.deps.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\bin\Debug\net6.0\Solid_Open_Closed_Principle.runtimeconfig.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\bin\Debug\net6.0\Solid_Open_Closed_Principle.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\bin\Debug\net6.0\Solid_Open_Closed_Principle.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\Solid_Open_Closed_Principle.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\refint\Solid_Open_Closed_Principle.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\Solid_Open_Closed_Principle.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\Solid_Open_Closed_Principle.genruntimeconfig.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Solid_Open_Closed_Principle\Solid_Open_Closed_Principle\obj\Debug\net6.0\ref\Solid_Open_Closed_Principle.dll

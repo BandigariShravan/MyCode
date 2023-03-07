@@ -1,0 +1,15 @@
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.deps.json
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.dll
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\bin\Debug\net7.0\BusinessAccessLayer.pdb
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.csproj.CopyComplete
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.dll
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\refint\BusinessAccessLayer.dll
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\BusinessAccessLayer.pdb
+C:\Users\bandi\source\repos\FacebookAuth_API\DataAccessLayer\obj\Debug\net7.0\ref\BusinessAccessLayer.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Solid_Open_Closed_Principle/1.0.0": {
+        "runtime": {
+          "Solid_Open_Closed_Principle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solid_Open_Closed_Principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

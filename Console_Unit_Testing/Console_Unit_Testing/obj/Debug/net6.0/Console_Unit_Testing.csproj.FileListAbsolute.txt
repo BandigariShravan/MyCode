@@ -1,0 +1,15 @@
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\bin\Debug\net6.0\Console_Unit_Testing.exe
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\bin\Debug\net6.0\Console_Unit_Testing.deps.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\bin\Debug\net6.0\Console_Unit_Testing.runtimeconfig.json
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\bin\Debug\net6.0\Console_Unit_Testing.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\bin\Debug\net6.0\Console_Unit_Testing.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\Console_Unit_Testing.csproj.AssemblyReference.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\Console_Unit_Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\Console_Unit_Testing.AssemblyInfoInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\Console_Unit_Testing.AssemblyInfo.cs
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\Console_Unit_Testing.csproj.CoreCompileInputs.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\Console_Unit_Testing.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\refint\Console_Unit_Testing.dll
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\Console_Unit_Testing.pdb
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\Console_Unit_Testing.genruntimeconfig.cache
+C:\Users\bandi\OneDrive\Documents\MyCode\Interns\Shravan\Console_Unit_Testing\Console_Unit_Testing\obj\Debug\net6.0\ref\Console_Unit_Testing.dll
